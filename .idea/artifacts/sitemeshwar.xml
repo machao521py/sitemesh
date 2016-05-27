@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="sitemeshwar">
+    <output-path>$PROJECT_DIR$/out/artifacts/sitemeshwar</output-path>
+    <root id="archive" name="sitemeshwar.war">
+      <element id="artifact" artifact-name="sitemesh" />
+    </root>
+  </artifact>
+</component>
